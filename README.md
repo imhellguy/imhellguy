@@ -1,23 +1,14 @@
-👋 Hi, I’m @imhellguy  
-I’m a passionate Python developer on an exciting journey of continuous learning and growth. With a strong curiosity for programming, I love exploring new technologies and creative solutions to problems.
+## Olá, meu nome é hellguy.
 
-👀 I’m interested in:  
-- Creating impactful and efficient software solutions  
-- Development with Python  
-- Machine Learning and AI  
-- Automating workflows to optimize productivity  
-- Open-source contributions to foster collaboration and innovation  
-
-🌱 I’m currently learning:  
-- Advanced Python concepts and best practices  
-- Web development with Flask  
-- Data science fundamentals  
-- Version control (Git/GitHub) and CI/CD pipelines  
-
-💞️ I’m looking to collaborate on:  
-- Python projects that push the boundaries of what's possible  
-- Open-source contributions, especially in automation  
-- Ideas that aim to solve real-world problems  
-
-📫 How to reach me:  
-- Unfortunately, it is not possible to contact me. 🔐
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+ <a href="https://discord.gg/WKkE8ghHpB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
