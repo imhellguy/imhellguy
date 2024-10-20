@@ -34,11 +34,4 @@
   </a>
 </div>
 
-<style>
-  img:hover {
-    transform: scale(1.1);
-  }
-  a:hover img {
-    transform: scale(1.2);
-  }
-</style>
+
